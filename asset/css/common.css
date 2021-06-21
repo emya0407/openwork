@@ -1,0 +1,10 @@
+dd, div, dl, dt,
+html, li, ol, p, table, tbody,
+td, tfoot, th, thead, tr, ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}

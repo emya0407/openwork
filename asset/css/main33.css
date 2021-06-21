@@ -1,0 +1,29 @@
+.mainbanner {
+  height: 661px;
+  background: url("../img/booster_half_top.159aec2d.png") no-repeat;
+  background-size: 100%;
+  background-position: right bottom;
+}
+
+.mainbanner .items {
+  height: 550px;
+}
+
+.mainbanner .items .sub_box {
+  color: #42403e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+}
+
+.mainbanner .items .sub_box .items {
+  text-align: left;
+  margin-top: 200px;
+}
+
+.mainbanner .items .sub_box .items .title {
+  font-size: 45px;
+  font-weight: 400;
+  padding-bottom: 15px;
+}

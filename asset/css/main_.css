@@ -1,0 +1,27 @@
+.mainbanner {
+  height: 550px;
+  background: url("../img/main_banner.png") no-repeat;
+  background-size: cover;
+}
+
+.mainbanner .main {
+  height: 550px;
+}
+
+.mainbanner .main .sub_box {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainbanner .main .sub_box .items {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.mainbanner .main .sub_box .items .title {
+  font-size: 45px;
+  font-weight: 400;
+  padding-bottom: 15px;
+}
